@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: platform-team
   definition:
-    $text: 'https://raw.githubusercontent.com/OAI/OpenAPI-Specification/refs/heads/main/examples/v2.0/json/api-with-examples.json'
+    $text: 'https://gist.githubusercontent.com/OAI/OpenAPI-Specification/refs/heads/main/examples/v2.0/json/api-with-examples.json'
