@@ -1,0 +1,11 @@
+piVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: platform team api
+  description: another api
+spec:
+  type: openapi
+  lifecycle: production
+  owner: platform-team
+  definition:
+    $text: 'https://raw.githubusercontent.com/OAI/OpenAPI-Specification/refs/heads/main/examples/v2.0/json/api-with-examples.json
